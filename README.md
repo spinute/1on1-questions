@@ -1,7 +1,7 @@
-# 1 on 1 Meeting Questions
-Mega list compiled from a variety to sources. Also available here: http://www.managersclub.com/mega-list-of-1-on-1-meeting-questions/
+# 1on1 で使える質問リスト
+https://github.com/VGraupera/1on1-questions の日本語訳です。
 
-## Table of Contents
+## 見出し
 - [About Manager](#about-manager)
 - [Career development](#career-development)
 - [Conversation starters](#conversation-starters)
