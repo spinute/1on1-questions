@@ -18,8 +18,9 @@ function sortQuestions(a, b) {
 function stringToSlug(string) {
   return string
     .toLowerCase()
-    .replace(/ /g, '-')
-    .replace(/[^\w-]+/g, '');
+    .replace(/ /g, '-');
+    // XXX: 日本語で動かすため雑に直す
+    // .replace(/[^\w-]+/g, '');
 }
 function categoryMapReducer(accumulator, item) {
   if (accumulator[item.category]) {
