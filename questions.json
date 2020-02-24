@@ -1,77 +1,77 @@
 [
   {
     "id": 306,
-    "question": "If you were me, what changes would you make?",
+    "question": "私が今やっておらず、あなたがもし私ならやることを教えてください",
     "category": "マネージャ",
     "created_at": "2017-11-18T14:26:13.870Z",
     "updated_at": "2017-11-18T14:26:13.870Z"
   },
   {
     "id": 307,
-    "question": "How do you prefer to receive feedback?",
+    "question": "あなたはフィードバックをもらうのが好きですか？",
     "category": "マネージャ",
     "created_at": "2017-11-18T14:26:13.874Z",
     "updated_at": "2017-11-18T14:26:13.874Z"
   },
   {
     "id": 308,
-    "question": "Do you feel you\u2019re getting enough feedback? Why\/why not?",
+    "question": "あなたはフィードバックを十分もらっていると感じていますか？どうしてそう感じましたか？",
     "category": "マネージャ",
     "created_at": "2017-11-18T14:26:13.878Z",
     "updated_at": "2017-11-18T14:26:13.878Z"
   },
   {
     "id": 309,
-    "question": "What aspect of your job you would like more help or coaching?",
+    "question": "あなたの仕事の中で、助けやコーチングが必要なものを教えてください",
     "category": "マネージャ",
     "created_at": "2017-11-18T14:26:13.881Z",
     "updated_at": "2017-11-18T14:26:13.881Z"
   },
   {
     "id": 310,
-    "question": "How can I better support you?",
+    "question": "あなたを手助けするために、私にしてほしいことを教えてください",
     "category": "マネージャ",
     "created_at": "2017-11-18T14:26:13.893Z",
     "updated_at": "2017-11-18T14:26:13.893Z"
   },
   {
     "id": 311,
-    "question": "What could I do as a manager to make your work easier?",
+    "question": "あなたが仕事をやりやすくするために、私がマネージャとしてできることを教えてください",
     "category": "マネージャ",
     "created_at": "2017-11-18T14:26:13.896Z",
     "updated_at": "2017-11-18T14:26:13.896Z"
   },
   {
     "id": 312,
-    "question": "What is something I could do better? What feedback do you have for me?",
+    "question": "私が改善できるところはありますか？私にフィードバックをください",
     "category": "マネージャ",
     "created_at": "2017-11-18T14:26:13.898Z",
     "updated_at": "2017-11-18T14:26:13.898Z"
   },
   {
     "id": 313,
-    "question": "What aspects of your work would you like more or less direction from me?",
+    "question": "あなたの仕事の中で、私が干渉しすぎているものと、もうすこし細かいタスクにしてほしいものを教えてください",
     "category": "マネージャ",
     "created_at": "2017-11-18T14:26:13.909Z",
     "updated_at": "2017-11-18T14:26:13.909Z"
   },
   {
     "id": 314,
-    "question": "What would you like to know about me?",
+    "question": "私に関して知りたいことを教えてください",
     "category": "マネージャ",
     "created_at": "2017-11-18T14:26:13.912Z",
     "updated_at": "2017-11-18T14:26:13.912Z"
   },
   {
     "id": 315,
-    "question": "What do you like about my management style? What do you dislike?",
+    "question": "私のマネジメントのやり方の中で、好きなところと嫌いなところを教えてください",
     "category": "マネージャ",
     "created_at": "2017-11-18T14:26:13.915Z",
     "updated_at": "2017-11-18T14:26:13.915Z"
   },
   {
     "id": 316,
-    "question": "What have your past managers done that you\u2019d like me to also do or not do?",
+    "question": "あなたの過去のマネージャがやっていたことの中で、私にやってほしいこと・やらないでほしいことを教えてください",
     "category": "マネージャ",
     "created_at": "2017-11-18T14:26:13.918Z",
     "updated_at": "2017-11-18T14:26:13.918Z"
