@@ -1,5 +1,7 @@
-# 1on1 で使える質問リスト
+# 1on1 で使える質問集
 https://github.com/VGraupera/1on1-questions の日本語訳です。
+
+私が使いやすいように作っているため、意訳・超訳が入っているかもしれません。気になる方は原文を参照してください。
 
 ## 見出し
 - [マネージャ](#マネージャ)
@@ -14,23 +16,17 @@ https://github.com/VGraupera/1on1-questions の日本語訳です。
 * Are there any obstacles I can remove for you?
 * As your manager, what would you like me to stop, start, or continue doing?
 * At what point in the past week were you most frustrated with or discouraged by your work? What can I do to help you manage that?
-* Do you feel you’re getting enough feedback? Why/why not?
 * Do you have any feedback for me?
 * Do you think that you receive enough feedback? Is feedback helpful for your personal development? What can I do to help you get the feedback you want?
-* How can I better support you?
 * How can I make your days more fulfilling?
 * How could I do a better job communicating with you?
-* How do you prefer to receive feedback?
 * How might I make this project more challenging or interesting for you?
 * I'd like to improve as a manager and I could really use your help. Next week, would you be willing to share some feedback on one to two things you think I could do better as your manager?
-* If you were me, what changes would you make?
 * I’m trying to make my 1-on-1s better and would appreciate your honest feedback on this one — what did you like about it, and what could be improved?
 * I’ve noticed that our last several 1-on-1s have stayed pretty surface. What are your honest impressions of this meeting? What could we be doing differently or better?
 * What additional resources can I provide for you between now and the next time we meet?
 * What are your impressions of our 1-on-1s? What could we do differently or better?
 * What are your thoughts on my changes?
-* What aspect of your job you would like more help or coaching?
-* What aspects of your work would you like more or less direction from me?
 * What can I be doing better to help you in your job?
 * What can I do as a manager to make your work easier?
 * What can I do better or differently as your manager to support you?
@@ -41,21 +37,27 @@ https://github.com/VGraupera/1on1-questions の日本語訳です。
 * What can I do to help you?
 * What can I do to make things more manageable?
 * What can I do to make your job easier?
-* What could I do as a manager to make your work easier?
-* What do you like about my management style? What do you dislike?
 * What do you think I should know about the project, but might not?
-* What have your past managers done that you’d like me to also do or not do?
-* What is something I could do better? What feedback do you have for me?
 * What is something I could have done better? What are the situations that I could have helped more but didn’t?
 * What is the biggest challenge you are currently facing? How can I help with that?
 * What is the one thing that you need the most from me?
 * What is the percentage of my involvement in your daily tasks? Would you prefer more or less?
-* What would you like to know about me?
 * What would you like to see change about these discussions? How could we make them more useful for you?
 * What’s your favorite thing I do as a manager of this team I should keep doing?
 * Where do you think I can be most helpful?
 * Which areas would you like more or less direction from me on your work?
 * Would you like more coaching? What aspect of your job do you like more help and coaching on?
+* あなたが仕事をやりやすくするために、私がマネージャとしてできることを教えてください
+* あなたの仕事の中で、助けやコーチングが必要なものを教えてください
+* あなたの仕事の中で、私が干渉しすぎているものと、もうすこし細かいタスクにしてほしいものを教えてください
+* あなたの過去のマネージャがやっていたことの中で、私にやってほしいこと・やらないでほしいことを教えてください
+* あなたはフィードバックをもらうのが好きですか？
+* あなたはフィードバックを十分もらっていると感じていますか？どうしてそう感じましたか？
+* あなたを手助けするために、私にしてほしいことを教えてください
+* 私が今やっておらず、あなたがもし私ならやることを教えてください
+* 私が改善できるところはありますか？私にフィードバックをください
+* 私に関して知りたいことを教えてください
+* 私のマネジメントのやり方の中で、好きなところと嫌いなところを教えてください
 
 ## キャリア
 * Are there any events or training you’d like to attend to help you grow your skills?
