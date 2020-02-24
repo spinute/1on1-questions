@@ -43,8 +43,9 @@ function tableOfContentsReducer(accumulator, category) {
   ];
 }
 
-const title = `# 1 on 1 Meeting Questions
-Mega list compiled from a variety to sources. Also available here: http://www.managersclub.com/mega-list-of-1-on-1-meeting-questions/`;
+const title = `# 1on1 で使える質問リスト
+https://github.com/VGraupera/1on1-questions の日本語訳です。`;
+
 const faq = `
 
 ## FAQ
@@ -63,7 +64,7 @@ You can update the README manually running \`npm start\` but there is GitHub act
 
 const categoryMap = questions.reduce(categoryMapReducer, {});
 const questionsBySection = Object.entries(categoryMap).reduce(questionSectionReducer, []);
-const tableOfContents = Object.keys(categoryMap).reduce(tableOfContentsReducer, ['\n## Table of Contents']).join('');
+const tableOfContents = Object.keys(categoryMap).reduce(tableOfContentsReducer, ['\n## 見出し']).join('');
 const content = [
   title,
   tableOfContents,
