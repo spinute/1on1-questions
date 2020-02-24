@@ -45,7 +45,9 @@ function tableOfContentsReducer(accumulator, category) {
 }
 
 const title = `# 1on1 で使える質問集
-https://github.com/VGraupera/1on1-questions の日本語訳です。`;
+https://github.com/VGraupera/1on1-questions の日本語訳です。
+
+私が使いやすいように作っているため、意訳・超訳が入っているかもしれません。気になる方は原文を参照してください。`;
 
 const faq = `
 
