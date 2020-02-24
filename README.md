@@ -2,15 +2,15 @@
 https://github.com/VGraupera/1on1-questions の日本語訳です。
 
 ## 見出し
-- [About Manager](#about-manager)
-- [Career development](#career-development)
-- [Conversation starters](#conversation-starters)
-- [Job satisfaction](#job-satisfaction)
-- [Other](#other)
-- [Team and company](#team-and-company)
-- [Work-life](#work-life)
+- [マネージャ](#)
+- [キャリア](#)
+- [会話をはじめる](#)
+- [仕事の満足度](#)
+- [その他](#)
+- [チームと会社](#)
+- [ワークライフバランス](#)
 
-## About Manager
+## マネージャ
 * Are there any obstacles I can remove for you?
 * As your manager, what would you like me to stop, start, or continue doing?
 * At what point in the past week were you most frustrated with or discouraged by your work? What can I do to help you manage that?
@@ -57,7 +57,7 @@ https://github.com/VGraupera/1on1-questions の日本語訳です。
 * Which areas would you like more or less direction from me on your work?
 * Would you like more coaching? What aspect of your job do you like more help and coaching on?
 
-## Career development
+## キャリア
 * Are there any events or training you’d like to attend to help you grow your skills?
 * Are there any projects you’d really like to work on if you were given the opportunity?
 * Could you see yourself making progress on more of your goals here? What would need to change to do so?
@@ -119,7 +119,7 @@ https://github.com/VGraupera/1on1-questions の日本語訳です。
 * Which part of the work here do you feel as most relevant to your long-term goals? What kinds of projects do you want to take part in to move toward your goals?
 * Who in the company would you like to learn from? What do you want to learn?
 
-## Conversation starters
+## 会話をはじめる
 * Are you on track to meet the deadline?
 * Hey, what’s going on?
 * How are you? How is life outside of work?
@@ -147,7 +147,7 @@ https://github.com/VGraupera/1on1-questions の日本語訳です。
 * Would you like to walk today, or go somewhere else outside the office?
 * Would you update me on Project X?
 
-## Job satisfaction
+## 仕事の満足度
 * Are you happy here? What makes you say that?
 * Are you happy with your recent work? Why or why not?
 * Can you name three things we can do to help so you can enjoy your job more?What is the best accomplishment you had since you are here? Do you feel appreciated for it?
@@ -211,7 +211,7 @@ https://github.com/VGraupera/1on1-questions の日本語訳です。
 * Which areas would you like to spend more time on and why?
 * Which parts of your project are unclear or confusing?
 
-## Other
+## その他
 * As a kid, what did you want to be when you grew up?
 * How are things going for you outside of work?
 * If you had millions of dollars, what would you do every day?
@@ -222,7 +222,7 @@ https://github.com/VGraupera/1on1-questions の日本語訳です。
 * What would you be doing right now if we weren’t having this meeting? How do you feel about being taken away from that task?
 * What’s one thing we could change about work for you that would improve your personal life?
 
-## Team and company
+## チームと会社
 * Are there any aspects of our culture you wish you could change?
 * Are there any meetings or discussions you feel you should be a part of that you’re not? Are you included in any you don’t want to be a part of?
 * Are there any problems or issues that I should know about?
@@ -307,7 +307,7 @@ https://github.com/VGraupera/1on1-questions の日本語訳です。
 * Whom in the team do you want to learn from? Whom do you get valuable feedback from?
 * Why do you think [employee who recently quit] left? What did they tell you?
 
-## Work-life
+## ワークライフバランス
 * How are you feeling about work?
 * How are you going to approach this?
 * How are you planning to balance work and personal life this year?
