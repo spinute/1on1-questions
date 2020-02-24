@@ -1,5 +1,5 @@
 {
-  "name": "1on1-questions",
+  "name": "1on1-questions 日本語",
   "version": "1.0.0",
   "description": "A list of 1 on 1 questions",
   "main": "main.js",
@@ -10,5 +10,6 @@
     "prepublish": "npm test"
   },
   "author": "Vidal Graupera",
+  "contributors": ["Satoru Horie (@spinute)"],
   "license": "MIT"
 }
