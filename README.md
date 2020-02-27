@@ -43,7 +43,6 @@ https://github.com/VGraupera/1on1-questions の日本語訳です。
 * What is the one thing that you need the most from me?
 * What is the percentage of my involvement in your daily tasks? Would you prefer more or less?
 * What would you like to see change about these discussions? How could we make them more useful for you?
-* What’s your favorite thing I do as a manager of this team I should keep doing?
 * Where do you think I can be most helpful?
 * Which areas would you like more or less direction from me on your work?
 * Would you like more coaching? What aspect of your job do you like more help and coaching on?
@@ -54,6 +53,7 @@ https://github.com/VGraupera/1on1-questions の日本語訳です。
 * あなたはフィードバックをもらうのが好きですか？
 * あなたはフィードバックを十分もらっていると感じていますか？どうしてそう感じましたか？
 * あなたを手助けするために、私にしてほしいことを教えてください
+* 私がマネージャとしてやっていることの中で、あなたがとくに良いと思っており、チームのためにぜひ継続すべきものを教えてください
 * 私が今やっておらず、あなたがもし私ならやることを教えてください
 * 私が改善できるところはありますか？私にフィードバックをください
 * 私に関して知りたいことを教えてください
