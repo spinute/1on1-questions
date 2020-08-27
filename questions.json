@@ -85,21 +85,21 @@
   },
   {
     "id": 318,
-    "question": "Where do you think I can be most helpful?",
+    "question": "私が何をするとあなたにとって一番助けになることを教えてください",
     "category": "マネージャ",
     "created_at": "2017-11-18T14:26:13.933Z",
     "updated_at": "2017-11-18T14:26:13.933Z"
   },
   {
     "id": 319,
-    "question": "What are your thoughts on my changes?",
+    "question": "私が変わったと感じたことを教えてください",
     "category": "マネージャ",
     "created_at": "2017-11-18T14:26:13.935Z",
     "updated_at": "2017-11-18T14:26:13.935Z"
   },
   {
     "id": 320,
-    "question": "How can I make your days more fulfilling?",
+    "question": "あなたの仕事や生活をより充実させるために私ができることを教えてください",
     "category": "マネージャ",
     "created_at": "2017-11-18T14:26:13.938Z",
     "updated_at": "2017-11-18T14:26:13.938Z"
@@ -113,14 +113,14 @@
   },
   {
     "id": 322,
-    "question": "Are there any obstacles I can remove for you?",
+    "question": "あなたが困っていることで、私が取り除けるものを教えてください",
     "category": "マネージャ",
     "created_at": "2017-11-18T14:26:13.953Z",
     "updated_at": "2017-11-18T14:26:13.953Z"
   },
   {
     "id": 323,
-    "question": "What can I do to help you achieve you current goals and priorities?",
+    "question": "あなたが今の目標や優先事項を済ませるために私が手助けできることを教えてください",
     "category": "マネージャ",
     "created_at": "2017-11-18T14:26:13.956Z",
     "updated_at": "2017-11-18T14:26:13.956Z"
@@ -330,42 +330,42 @@
   },
   {
     "id": 359,
-    "question": "What are your super powers? What powers would you like to develop?",
+    "question": "あなたの強みはなんですか？どのような強みを新たに身に着けていきたいですか",
     "category": "キャリア",
     "created_at": "2017-11-18T14:26:14.166Z",
     "updated_at": "2017-11-18T14:26:14.166Z"
   },
   {
     "id": 360,
-    "question": "What do you want to do in your next job?",
+    "question": "次の仕事として取り組みたいものを教えてください",
     "category": "キャリア",
     "created_at": "2017-11-18T14:26:14.171Z",
     "updated_at": "2017-11-18T14:26:14.171Z"
   },
   {
     "id": 361,
-    "question": "What skills would you like to develop right now?",
+    "question": "直近で身につけたいスキルを教えてください",
     "category": "キャリア",
     "created_at": "2017-11-18T14:26:14.175Z",
     "updated_at": "2017-11-18T14:26:14.175Z"
   },
   {
     "id": 362,
-    "question": "What additional training or education would you like?",
+    "question": "業務とは別に、トレーニングを受けたり、勉強したりしたいことを教えてください",
     "category": "キャリア",
     "created_at": "2017-11-18T14:26:14.186Z",
     "updated_at": "2017-11-18T14:26:14.186Z"
   },
   {
     "id": 363,
-    "question": "Do you feel like you\u2019re making progress on your big goals here? Why or why not?",
+    "question": "今の環境であなたの大目標に対して進んでいるように感じますか？それはなぜですか？",
     "category": "キャリア",
     "created_at": "2017-11-18T14:26:14.189Z",
     "updated_at": "2017-11-18T14:26:14.189Z"
   },
   {
     "id": 364,
-    "question": "What\u2019s one thing we could do today to help you with your long term goals?",
+    "question": "長期的なゴールを達成するために今日すべきことは何でしょうか？",
     "category": "キャリア",
     "created_at": "2017-11-18T14:26:14.192Z",
     "updated_at": "2017-11-18T14:26:14.192Z"
