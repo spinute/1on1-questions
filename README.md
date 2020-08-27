@@ -13,12 +13,10 @@ https://github.com/VGraupera/1on1-questions の日本語訳です。
 - [ワークライフバランス](#ワークライフバランス)
 
 ## マネージャ
-* Are there any obstacles I can remove for you?
 * As your manager, what would you like me to stop, start, or continue doing?
 * At what point in the past week were you most frustrated with or discouraged by your work? What can I do to help you manage that?
 * Do you have any feedback for me?
 * Do you think that you receive enough feedback? Is feedback helpful for your personal development? What can I do to help you get the feedback you want?
-* How can I make your days more fulfilling?
 * How could I do a better job communicating with you?
 * How might I make this project more challenging or interesting for you?
 * I'd like to improve as a manager and I could really use your help. Next week, would you be willing to share some feedback on one to two things you think I could do better as your manager?
@@ -26,13 +24,11 @@ https://github.com/VGraupera/1on1-questions の日本語訳です。
 * I’ve noticed that our last several 1-on-1s have stayed pretty surface. What are your honest impressions of this meeting? What could we be doing differently or better?
 * What additional resources can I provide for you between now and the next time we meet?
 * What are your impressions of our 1-on-1s? What could we do differently or better?
-* What are your thoughts on my changes?
 * What can I be doing better to help you in your job?
 * What can I do as a manager to make your work easier?
 * What can I do better or differently as your manager to support you?
 * What can I do for you that I'm not?
 * What can I do to help remove obstacles?
-* What can I do to help you achieve you current goals and priorities?
 * What can I do to help you enjoy your work more or remove roadblocks to progress?
 * What can I do to help you?
 * What can I do to make things more manageable?
@@ -43,18 +39,22 @@ https://github.com/VGraupera/1on1-questions の日本語訳です。
 * What is the one thing that you need the most from me?
 * What is the percentage of my involvement in your daily tasks? Would you prefer more or less?
 * What would you like to see change about these discussions? How could we make them more useful for you?
-* Where do you think I can be most helpful?
 * Which areas would you like more or less direction from me on your work?
 * Would you like more coaching? What aspect of your job do you like more help and coaching on?
+* あなたが今の目標や優先事項を済ませるために私が手助けできることを教えてください
 * あなたが仕事をやりやすくするために、私がマネージャとしてできることを教えてください
+* あなたが困っていることで、私が取り除けるものを教えてください
 * あなたの仕事の中で、助けやコーチングが必要なものを教えてください
 * あなたの仕事の中で、私が干渉しすぎているものと、もうすこし細かいタスクにしてほしいものを教えてください
+* あなたの仕事や生活をより充実させるために私ができることを教えてください
 * あなたの過去のマネージャがやっていたことの中で、私にやってほしいこと・やらないでほしいことを教えてください
 * あなたはフィードバックをもらうのが好きですか？
 * あなたはフィードバックを十分もらっていると感じていますか？どうしてそう感じましたか？
 * あなたを手助けするために、私にしてほしいことを教えてください
 * 私がマネージャとしてやっていることの中で、あなたがとくに良いと思っており、チームのためにぜひ継続すべきものを教えてください
 * 私が今やっておらず、あなたがもし私ならやることを教えてください
+* 私が何をするとあなたにとって一番助けになることを教えてください
+* 私が変わったと感じたことを教えてください
 * 私が改善できるところはありますか？私にフィードバックをください
 * 私に関して知りたいことを教えてください
 * 私のマネジメントのやり方の中で、好きなところと嫌いなところを教えてください
@@ -64,7 +64,6 @@ https://github.com/VGraupera/1on1-questions の日本語訳です。
 * Are there any projects you’d really like to work on if you were given the opportunity?
 * Could you see yourself making progress on more of your goals here? What would need to change to do so?
 * Do you feel like you are learning at work? What are the new things you learned lately? What are the areas you want to learn about?
-* Do you feel like you’re making progress on your big goals here? Why or why not?
 * Do you feel we’re helping you advance your career at a pace you would like?
 * Do you have the tools you need to reach your goals?
 * During this meeting you’ve mentioned that you’d like to pursue X. What steps can you take toward that before our next 1-on-1?
@@ -82,14 +81,12 @@ https://github.com/VGraupera/1on1-questions の日本語訳です。
 * To help identify and clarify the goal: What do you want to achieve? What will you do to achieve it? When will you do it? Who do you need to involve? When should you see results?
 * What about this goal is important to you and what will be different when you achieve the goal?
 * What actions will you take before our next 1-on-1 to make progress on X? (Also discuss and agree on actions you will take to help.)
-* What additional training or education would you like?
 * What are some of the work projects you’re most proud of, and what do you think you might want to do next?
 * What are the projects you would be interested in working on next?
 * What are two to three new skills you’d like to learn on the job? What about those skills interests you?
 * What are your big dreams in life? Are you making progress on them?
 * What are your goals (for our group for you personally)
 * What are your long term goals? Have you thought about them?
-* What are your super powers? What powers would you like to develop?
 * What areas of your job do you find difficult that getting better skills at would help?
 * What big questions do you have about your career opportunities in the future?
 * What can I do to take action or make progress on what we talked about today?
@@ -98,7 +95,6 @@ https://github.com/VGraupera/1on1-questions の日本語訳です。
 * What development areas do you want to work on in the coming weeks?
 * What do you see as the next step in your career?
 * What do you want to be doing in 5 years? 10 years? 3 years?
-* What do you want to do in your next job?
 * What else can I be doing to help you grow/advance in your career?
 * What goals have you set for your career?
 * What kind of training or experience would be most helpful to you right now?
@@ -108,18 +104,22 @@ https://github.com/VGraupera/1on1-questions の日本語訳です。
 * What professional goals would you like to accomplish in the next 6 to 12 months, and what makes you say that?
 * What skills are required to reach your goals?
 * What skills do you have that you think are underutilized?
-* What skills would you like to develop right now?
 * What sort of progress have you made on the next steps we discussed last time?
 * What work are you doing here that you feel is most in line with your long term goals?
 * What would make this your perfect job?
 * What would you like to learn about in the future?
-* What’s one thing we could do today to help you with your long term goals?
 * Where do you see your career in 1 year, 3 years? What can you do to make sure you reach those goals? How can we as HR help you to reach those goals (assuming the goals relate to the company)?
 * Where do you see your career in the next (2/5/10) years?
 * Where do you see yourself in three years? Five years?
 * Which career or development goals do you feel like you’re not able to focus on right now?
 * Which part of the work here do you feel as most relevant to your long-term goals? What kinds of projects do you want to take part in to move toward your goals?
 * Who in the company would you like to learn from? What do you want to learn?
+* あなたの強みはなんですか？どのような強みを新たに身に着けていきたいですか
+* 今の環境であなたの大目標に対して進んでいるように感じますか？それはなぜですか？
+* 業務とは別に、トレーニングを受けたり、勉強したりしたいことを教えてください
+* 次の仕事として取り組みたいものを教えてください
+* 直近で身につけたいスキルを教えてください
+* 長期的なゴールを達成するために今日すべきことは何でしょうか？
 
 ## 会話をはじめる
 * Are you on track to meet the deadline?
